@@ -1,40 +1,31 @@
 This is a collection of articles, books, video's, insights and some fun stuff. 
 
-## Continuous Delivery
+## Continuous Delivery 
 
-- [Agile & Scrum Don't Work | Allen Holub In The Engineering Room Ep. 9](https://www.youtube.com/watch?v=hxXmTnb3mFU)
+- [Agile & Scrum Don't Work - Allen Holub In The Engineering Room Ep. 9](https://www.youtube.com/watch?v=hxXmTnb3mFU)
 
 
 ## URLs
 
-### Technical stuff
+### Technical 
 
 - [Get IP](https://icanhazip.com/)
 - [REST and API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg)
-- [The Fundamentals Of Software Development | Martin Fowler In The Engineering Room Ep. 1](https://www.youtube.com/watch?v=0TwoubGSXpc)
+- [The Fundamentals Of Software Development - Martin Fowler In The Engineering Room Ep. 1](https://www.youtube.com/watch?v=0TwoubGSXpc)
 - [Moving 17 years of old legacy code and websites into the Cloud - Scott Hanselman at NDC Porto 2022](https://www.youtube.com/watch?v=CVxwsskDzmU)
 - [The Development Abstraction Layer - Joel on Software](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/ )
-- [The Automattic Creed](https://automattic.com/creed/)
 - [Hanselman on the background of WSL ](https://www.youtube.com/watch?v=tuhzVDc0Slg)
-- [FrequencyReducesDifficulty - Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
-- [Skills Matter (Incorporating YOW! Conferences)](https://youtu.be/L5YczxxFzGQ?t=1170)
-- [Life of Brian - The People's Front of Judea](https://youtu.be/WboggjN_G-4?t=70)
 - [Packer](https://github.com/gusztavvargadr/packer)
 - [AWS-Get-Started](https://learn.hashicorp.com/collections/packer/aws-get-started)
 - [12factor.net](https://12factor.net/)
 - [Vagrant Samples - Gusztav Varga](https://github.com/gusztavvargadr/vagrant/tree/master/samples/docker)
-- [Rémi GAILLARD](https://www.youtube.com/watch?v=hqOBR_Xbw2I)
-- [10 hour siren](https://www.youtube.com/watch?v=rIos0ya-yss)
 - [Nuke - The Continuous Improver](https://www.continuousimprover.com/2020/03/reasons-for-adopting-nuke.html)
 - [dotnetrocks podcast - ](https://www.dotnetrocks.com/?show=1745)
 - [Pull requests stop - Dave Farley](https://www.youtube.com/watch?v=ASOSEiJCyEM)
-- [Hurra Torpedo - Total Eclipse Of The Heart (live)](https://www.youtube.com/watch?app=desktop&v=ysUjYAi0WcQ)
-
 - [The 10 REST Commandments](https://treblle.com/blog/the-10-rest-commandments)
 - [Douglas Adams' SEP field - Somebody Else’s Problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem#Douglas_Adams'_SEP_field)
 - [Spectre.Console](https://spectreconsole.net/)
-
 - [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 - [GitPod](https://www.gitpod.io/)
 - [Null Object Design Pattern](https://www.c-sharpcorner.com/article/null-object-design-pattern/)
@@ -46,10 +37,13 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 ### Way of working
 
 #### 
+- [Skills Matter (Incorporating YOW! Conferences)](https://youtu.be/L5YczxxFzGQ?t=1170)
+- [FrequencyReducesDifficulty - Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
+- [The Automattic Creed](https://automattic.com/creed/)
 - [Woody Zuill on estimates](https://twitter.com/WoodyZuill/status/1551548161629503488)
 - [Perceived Barriers to Trunk Based Development - Dave Farley’s Weblog](https://www.davefarley.net/?p=269)
 - [McGurk effect - Auditory Illusion - BBC Horizon Clip ](https://www.youtube.com/watch?v=2k8fHR9jKVM)
-- [Technical leadership and glue work - Tanya Reilly | #LeadDevNewYork ](https://www.youtube.com/watch?v=KClAPipnKqw)
+- [Technical leadership and glue work - Tanya Reilly - #LeadDevNewYork ](https://www.youtube.com/watch?v=KClAPipnKqw)
 - [SREcon19 Europe/Middle East/Africa - Pushing through Friction ](https://www.youtube.com/watch?v=8bxZuzDKoI0)
 - [Avoid These Common Mistakes Junior Developers Make!](https://www.youtube.com/watch?v=5g3dK2DgW-k)
 - [How To Manage Your Boss! (Managing Up) ](https://www.youtube.com/watch?v=bCEmRwsmmlY)
@@ -84,7 +78,9 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [A Real World Example of BDD - Dave Farley](https://www.youtube.com/watch?v=9P5WG8CkPrQ)
 - [Agile testing days - Jez Humble](https://www.youtube.com/watch?v=IvWr29afDF8)
 
+
 ### Fun stuff
+
 - [XKCD](https://xkcd.com/327/)
 - [The Chain / Circle of Screaming - How I Met Your Mother ](https://www.youtube.com/watch?v=lY641VhhGuA)
 - [Spectrum - Talking About Things - Monty Python](https://montypython.fandom.com/wiki/Spectrum_-_Talking_About_Things)
@@ -92,6 +88,11 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://www.youtube.com/watch?v=uRGljemfwUE)
 - [course the 9 women carrying out a baby in 1 month](https://www.divante.com/blog/9-women-give-birth-baby-month)
 - [shitcode](https://shitcode.net/2176)
+- [10 hour siren](https://www.youtube.com/watch?v=rIos0ya-yss)
+- [Rémi GAILLARD](https://www.youtube.com/watch?v=hqOBR_Xbw2I)
+- [Life of Brian - The People's Front of Judea](https://youtu.be/WboggjN_G-4?t=70)
+- [Hurra Torpedo - Total Eclipse Of The Heart (live)](https://www.youtube.com/watch?app=desktop&v=ysUjYAi0WcQ)
+
 
 ### Other movies
 
