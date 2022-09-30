@@ -37,6 +37,15 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 ### Way of working
 
 #### 
+- [Agile Manifesto](https://agilemanifesto.org/principles.html)
+- [Jeff Sutherland - Origins of Scrum](https://www.scruminc.com/origins-of-scrum/)
+- [Jeff Sutherland - The Scrum Handbook](https://www.researchgate.net/publication/301685699_Jeff_Sutherland%27s_Scrum_Handbook)
+- [Joel on software - Painless Bug Tracking](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/)
+- [Conways Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi#:~:text=Conway's%20Law%20states%20that%20%E2%80%9COrganizations,%E2%80%9CThe%20Mythical%20Man%20Month.%E2%80%9D)
+- [Project Management Certification does not correlate with performance](http://network.projectmanagers.net/profiles/blog/show?id=1606472%3ABlogPost%3A244660)
+- [Happiness Metric](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)
+- [The Dehumanisation of Agile and Objects • James Coplien • GOTO 2017 - Movie](https://www.youtube.com/watch?v=ZrBQmIDdls4)
+- [Stable Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)
 - [Skills Matter (Incorporating YOW! Conferences)](https://youtu.be/L5YczxxFzGQ?t=1170)
 - [FrequencyReducesDifficulty - Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 - [The Automattic Creed](https://automattic.com/creed/)
@@ -52,7 +61,6 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [Mob Programming: A Whole Team Approach • Woody Zuill • GOTO 2017](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 - [Skills Matter (formerly YOW! Conferences) - Woody Zuill](https://www.youtube.com/watch?v=L5YczxxFzGQ)
 - [How complex is it? How long will it take? When will it be done? - Doc Norton](https://twitter.com/DocOnDev/status/1472238231097946115)
-- [agilemanifesto](https://agilemanifesto.org/principles.html)
 - [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense)
 - [To slice stories, first make sure they are TOO BIG - Gojko Adzic](https://gojko.net/2017/01/05/user-stories-too-big.html)
 - [Normalization of deviance](https://danluu.com/wat/)
@@ -63,6 +71,14 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [DORA DevOps Research - Quickcheck](https://www.devops-research.com/quickcheck.html)
 - [Guerrilla guide on interviewing - Joel on Software](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 - [Wakers schedule - Paul Graham](http://www.paulgraham.com/makersschedule.html)
+
+
+#### Azure Devops
+
+- [TODO: pipeline setup]()
+- [Static website hosting in Azure Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website)
+- [Example how to create storage using PWSL](https://github.com/eugenpodaru/cryptunics/blob/master/scripts/create-storage.ps1)
+- [Azure Cosmos db](https://docs.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/)
 
 #### Communicating
 
@@ -77,6 +93,11 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [Domain Driven Design with BDD](https://www.youtube.com/watch?v=Ju50D11EIoE)
 - [A Real World Example of BDD - Dave Farley](https://www.youtube.com/watch?v=9P5WG8CkPrQ)
 - [Agile testing days - Jez Humble](https://www.youtube.com/watch?v=IvWr29afDF8)
+
+
+#### Test data
+
+- [json with test data from Bugmagnet](https://github.com/gojko/bugmagnet/blob/master/template/config.json)
 
 
 ### Fun stuff
@@ -104,10 +125,11 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [spa-best-practices](https://curity.io/resources/learn/spa-best-practices/)
 - [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
+
 ### Data
 - [Create an API with Azure functions](https://microsoft.github.io/AzureTipsAndTricks/blog/tip323.html)
 - [Docker data container](https://www.freecodecamp.org/news/docker-data-containers/)
-- [CosmosDb set up with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/explore-azure-cosmos-db/)
+- [Again: CosmosDb set up with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/explore-azure-cosmos-db/)
 - [bugmagnet testdata](https://github.com/gojko/bugmagnet/blob/master/template/config.json)
 
 ### Other
