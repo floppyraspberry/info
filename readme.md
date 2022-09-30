@@ -19,6 +19,7 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [Packer](https://github.com/gusztavvargadr/packer)
 - [AWS-Get-Started](https://learn.hashicorp.com/collections/packer/aws-get-started)
 - [12factor.net](https://12factor.net/)
+- [info on refactoring and design principles](https://refactoring.guru/)
 - [Vagrant Samples - Gusztav Varga](https://github.com/gusztavvargadr/vagrant/tree/master/samples/docker)
 - [Nuke - The Continuous Improver](https://www.continuousimprover.com/2020/03/reasons-for-adopting-nuke.html)
 - [dotnetrocks podcast - ](https://www.dotnetrocks.com/?show=1745)
