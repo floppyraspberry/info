@@ -7,7 +7,7 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 
 ## URLs
 
-### Technical 
+## Technical 
 
 - [Get IP](https://icanhazip.com/)
 - [REST and API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -34,44 +34,65 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [Columns of a Constant Length](https://thedailywtf.com/articles/columns-of-a-constant-length)
 - [Google's Playground ](https://developers.google.com/oauthplayground/)
 
+## Way of working
+related to Scrum, Agile, Continuous Deliver, XP, etc.
 
-### Way of working
-
-#### 
 - [Agile Manifesto](https://agilemanifesto.org/principles.html)
 - [Jeff Sutherland - Origins of Scrum](https://www.scruminc.com/origins-of-scrum/)
 - [Jeff Sutherland - The Scrum Handbook](https://www.researchgate.net/publication/301685699_Jeff_Sutherland%27s_Scrum_Handbook)
-- [Joel on software - Painless Bug Tracking](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/)
-- [Conways Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi#:~:text=Conway's%20Law%20states%20that%20%E2%80%9COrganizations,%E2%80%9CThe%20Mythical%20Man%20Month.%E2%80%9D)
-- [Project Management Certification does not correlate with performance](http://network.projectmanagers.net/profiles/blog/show?id=1606472%3ABlogPost%3A244660)
-- [Happiness Metric](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)
-- [The Dehumanisation of Agile and Objects • James Coplien • GOTO 2017 - Movie](https://www.youtube.com/watch?v=ZrBQmIDdls4)
-- [Stable Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)
-- [Skills Matter (Incorporating YOW! Conferences)](https://youtu.be/L5YczxxFzGQ?t=1170)
-- [FrequencyReducesDifficulty - Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
-- [The Automattic Creed](https://automattic.com/creed/)
+
+
+Estimates/complexity
 - [Woody Zuill on estimates](https://twitter.com/WoodyZuill/status/1551548161629503488)
+- [How complex is it? How long will it take? When will it be done? - Doc Norton](https://twitter.com/DocOnDev/status/1472238231097946115)
+- [To slice stories, first make sure they are TOO BIG - Gojko Adzic](https://gojko.net/2017/01/05/user-stories-too-big.html)
+
+- [The Dehumanisation of Agile and Objects • James Coplien • GOTO 2017 - Movie](https://www.youtube.com/watch?v=ZrBQmIDdls4)
+- [swarming--one-piece-continuous-flow](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow)
+- [Kanban WIP](https://kanbanize.com/kanban-resources/getting-started/what-is-wip)
+- [ContinuousIntegrationCertification - Martin Fowler](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html)
+- [DORA DevOps Research - Quickcheck](https://www.devops-research.com/quickcheck.html)
+
+Gereric rules for ways of working
+- [FrequencyReducesDifficulty - Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
+- [Joel on software - Painless Bug Tracking](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/)
+- [Happiness Metric](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)
+- [The Automattic Creed](https://automattic.com/creed/)
+
+
+Change
+- [Conways Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi#:~:text=Conway's%20Law%20states%20that%20%E2%80%9COrganizations,%E2%80%9CThe%20Mythical%20Man%20Month.%E2%80%9D)
+- [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense)
+- [Normalization of deviance](https://danluu.com/wat/)
+- [new future work - Sam Harris](https://www.samharris.org/podcasts/making-sense-episodes/194-new-future-work)
 - [Perceived Barriers to Trunk Based Development - Dave Farley’s Weblog](https://www.davefarley.net/?p=269)
 - [McGurk effect - Auditory Illusion - BBC Horizon Clip ](https://www.youtube.com/watch?v=2k8fHR9jKVM)
-- [Technical leadership and glue work - Tanya Reilly - #LeadDevNewYork ](https://www.youtube.com/watch?v=KClAPipnKqw)
 - [SREcon19 Europe/Middle East/Africa - Pushing through Friction ](https://www.youtube.com/watch?v=8bxZuzDKoI0)
 - [Avoid These Common Mistakes Junior Developers Make!](https://www.youtube.com/watch?v=5g3dK2DgW-k)
-- [How To Manage Your Boss! (Managing Up) ](https://www.youtube.com/watch?v=bCEmRwsmmlY)
-- [new future work - Sam Harris](https://www.samharris.org/podcasts/making-sense-episodes/194-new-future-work)
-- [ContinuousIntegrationCertification - Martin Fowler](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html)
+
+
+Mob programming
 - [Mob Programming: A Whole Team Approach • Woody Zuill • GOTO 2017](https://www.youtube.com/watch?v=SHOVVnRB4h0)
-- [Skills Matter (formerly YOW! Conferences) - Woody Zuill](https://www.youtube.com/watch?v=L5YczxxFzGQ)
-- [How complex is it? How long will it take? When will it be done? - Doc Norton](https://twitter.com/DocOnDev/status/1472238231097946115)
-- [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense)
-- [To slice stories, first make sure they are TOO BIG - Gojko Adzic](https://gojko.net/2017/01/05/user-stories-too-big.html)
-- [Normalization of deviance](https://danluu.com/wat/)
-- [swarming--one-piece-continuous-flow](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow)
-- [The Dehumanisation of Agile and Objects • James Coplien • GOTO 2017 ](https://youtu.be/ZrBQmIDdls4)
-- [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
-- [Kanban WIP](https://kanbanize.com/kanban-resources/getting-started/what-is-wip)
-- [DORA DevOps Research - Quickcheck](https://www.devops-research.com/quickcheck.html)
+
+
+Management
+- [Project Management Certification does not correlate with performance](http://network.projectmanagers.net/profiles/blog/show?id=1606472%3ABlogPost%3A244660)
+- [Technical leadership and glue work - Tanya Reilly - #LeadDevNewYork ](https://www.youtube.com/watch?v=KClAPipnKqw)
+
+
+Interviewing/Hiring/Teams
 - [Guerrilla guide on interviewing - Joel on Software](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
-- [Wakers schedule - Paul Graham](http://www.paulgraham.com/makersschedule.html)
+- [Skills Matter (formerly YOW! Conferences) - Woody Zuill](https://www.youtube.com/watch?v=L5YczxxFzGQ)
+- [How To Manage Your Boss! (Managing Up) ](https://www.youtube.com/watch?v=bCEmRwsmmlY)
+- [Stable Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)
+
+
+Planning/meetings
+- [Makers schedule - Paul Graham](http://www.paulgraham.com/makersschedule.html)
+
+
+Other
+- [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 
 
 #### Azure Devops
