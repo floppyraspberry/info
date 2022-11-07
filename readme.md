@@ -34,6 +34,9 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [Columns of a Constant Length](https://thedailywtf.com/articles/columns-of-a-constant-length)
 - [Google's Playground ](https://developers.google.com/oauthplayground/)
 
+### C#
+- [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+
 ## Way of working
 related to Scrum, Agile, Continuous Deliver, XP, etc.
 
@@ -168,3 +171,4 @@ Other
 ## Books
 - [C# 10 Dotnet core](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484278682/ref[…]ts=p_27%3AAndrew+Troelsen&s=books&sr=1-1&text=Andrew+Troelsen)
 - [Mythical Man Month Essays/Software](https://www.bol.com/nl/nl/f/the-mythical-man-month-and-other-essays-on-software-engineering/30507064/)
+
