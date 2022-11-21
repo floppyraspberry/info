@@ -36,6 +36,7 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 
 ### C#
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [C# Operators](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
 
 ## Way of working
 related to Scrum, Agile, Continuous Deliver, XP, etc.
