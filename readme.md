@@ -39,7 +39,7 @@ This is a collection of articles, books, video's, insights and some fun stuff.
 - [C# Operators](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
 
 ### Azure
-- {Book: Learn Azure in a month of lunches}(https://clouddamcdnprodep.azureedge.net/gdc/2014519/original)
+- [Book: Learn Azure in a month of lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original)
 
 ## Way of working
 related to Scrum, Agile, Continuous Deliver, XP, etc.
