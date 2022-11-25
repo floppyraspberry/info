@@ -122,7 +122,7 @@ Other
 - [Domain Driven Design with BDD](https://www.youtube.com/watch?v=Ju50D11EIoE)
 - [A Real World Example of BDD - Dave Farley](https://www.youtube.com/watch?v=9P5WG8CkPrQ)
 - [Agile testing days - Jez Humble](https://www.youtube.com/watch?v=IvWr29afDF8)
-
+- [The Easiest Way To Compare REST API Responses Using JMeter | Blazemeter by Perforce](https://www.blazemeter.com/blog/rest-api-responses)
 
 #### Test data
 
@@ -165,14 +165,18 @@ Other
 
 - [Openfaas](https://www.openfaas.com/)
 - [Azure Functions in Openfaas](https://www.4dotnet.nl/kennis/blog-your-first-net-core-serverless-function-on-openfaas)
+- [SearXNG based 'search engine'](https://notgoogle.live/)
+- [VS shortcut duplicate line](https://stackoverflow.com/questions/2279000/visual-studio-short-cut-key-duplicate-line)
+### VS Code realted
+- [VS Code server](https://code.visualstudio.com/docs/remote/vscode-server)
 
 
 ## PDFs 
 
 - [How to organize teams](https://continuous-delivery.co.uk/downloads/How%20To%20Organise%20SW%20Dev%20Teams%2021-08-22.pdf)
-
+- [Learn Azure in a month of lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original)
 
 ## Books
 - [C# 10 Dotnet core](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484278682/ref[…]ts=p_27%3AAndrew+Troelsen&s=books&sr=1-1&text=Andrew+Troelsen)
 - [Mythical Man Month Essays/Software](https://www.bol.com/nl/nl/f/the-mythical-man-month-and-other-essays-on-software-engineering/30507064/)
-
+- 
